@@ -15,9 +15,9 @@
 
 ## About Me
 
-- 🎓 **B.Tech CSE** @ IIITDM Jabalpur (Batch 2024–2028) · CPI: **8.4**
+- 🎓 **B.Tech CSE** @ IIITDM Jabalpur (Batch 2024–2028) · CPI: **8.5**
 - 🔭 Currently building full-stack apps and exploring computer vision
-- 🧠 390+ LeetCode problems solved — spanning DP, graphs, trees, and more
+- 🧠 420+ LeetCode problems solved — spanning DP, graphs, trees, and more
 - 🤝 Open to internships, open-source contributions, and collaborations
 - 🎾 Active lawn tennis player; also love music and drawing
 
