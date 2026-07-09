@@ -105,10 +105,9 @@
 
 <div align="center">
 
-![Rounak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunakprajapatii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raunakprajapatii&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakprajapatii&layout=compact&theme=tokyonight&hide_border=true)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raunakprajapatii&theme=tokyonight)
 </div>
 
 ---
