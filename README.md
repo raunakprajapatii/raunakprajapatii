@@ -89,8 +89,13 @@
 ### ⚡ ProdHack — AI-Powered Productivity Tool
 > Gamifies study sessions with AI-generated quiz challenges powered by **Gemini API**
 
-- Score tracking and streak mechanics to drive user engagement
-- Intuitive UI with minimal friction for daily use
+- User signup and login
+- Profile dashboard
+- Real-time 1v1 productivity battle rooms
+- PDF upload and AI quiz generation
+- Store items, wallet, theme equip flow, and playlist slots
+- Leaderboard based on player progress
+- CORS-ready deployment config for Vercel + Render
 
 `React` `Express.js` `Gemini API`
 
@@ -100,9 +105,9 @@
 
 <div align="center">
 
-![Rounak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunak-iiitian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Rounak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunakprajapatii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-iiitian&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakprajapatii&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
