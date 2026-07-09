@@ -108,6 +108,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raunakprajapatii&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raunakprajapatii&theme=tokyonight)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=raunakprajapatii&theme=tokyo-night)
+
+![](https://github-profile-trophy.vercel.app/?username=raunakprajapatii&theme=tokyonight&no-frame=true&margin-w=15)
 </div>
 
 ---
