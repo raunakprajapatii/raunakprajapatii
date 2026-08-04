@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-rounakprajapati7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rounakprajapati7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rounak%20Prajapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-prajapati-3896jee)
-[![LeetCode](https://img.shields.io/badge/LeetCode-390%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-430%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★%20%7C%20Peak%20Rank%201241-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 </div>
