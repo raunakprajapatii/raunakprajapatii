@@ -6,8 +6,6 @@
 
 [![Email](https://img.shields.io/badge/Email-rounakprajapati7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rounakprajapati7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rounak%20Prajapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-prajapati-3896jee)
-[![LeetCode](https://img.shields.io/badge/LeetCode-430%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2★%20%7C%20Peak%20Rank%201241-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 </div>
 
@@ -17,8 +15,6 @@
 
 - 🎓 **B.Tech CSE** @ IIITDM Jabalpur (Batch 2024–2028) · CPI: **8.5** (till Sem IV)
 - 🔭 Currently building on full-stack + deep learning foundations through structured coursework in **RAG and LLM engineering**
-- 🧠 430+ LeetCode problems solved — spanning DP, graphs, trees, and more
-- 🐍 2-star CodeChef coder — max rating 1435, best global rank 1241
 - 🤝 Open to internships, open-source contributions, and collaborations
 - 🎾 Active lawn tennis club member; also love music and drawing
 
