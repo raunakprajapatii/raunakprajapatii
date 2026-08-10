@@ -2,7 +2,7 @@
 
 # Hey, I'm Rounak Prajapati 👋
 
-**CS undergrad at IIITDM Jabalpur** · Full-Stack Dev · Competitive Programmer · Computer Vision enthusiast
+**CS undergrad at IIITDM Jabalpur** · Full-Stack Dev · LLM/RAG Engineering · Computer Vision enthusiast
 
 [![Email](https://img.shields.io/badge/Email-rounakprajapati7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rounakprajapati7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rounak%20Prajapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-prajapati-3896jee)
@@ -15,11 +15,12 @@
 
 ## About Me
 
-- 🎓 **B.Tech CSE** @ IIITDM Jabalpur (Batch 2024–2028) · CPI: **8.5**
-- 🔭 Currently building full-stack apps and exploring computer vision
-- 🧠 420+ LeetCode problems solved — spanning DP, graphs, trees, and more
+- 🎓 **B.Tech CSE** @ IIITDM Jabalpur (Batch 2024–2028) · CPI: **8.5** (till Sem IV)
+- 🔭 Currently building on full-stack + deep learning foundations through structured coursework in **RAG and LLM engineering**
+- 🧠 430+ LeetCode problems solved — spanning DP, graphs, trees, and more
+- 🐍 2-star CodeChef coder — max rating 1435, best global rank 1241
 - 🤝 Open to internships, open-source contributions, and collaborations
-- 🎾 Active lawn tennis player; also love music and drawing
+- 🎾 Active lawn tennis club member; also love music and drawing
 
 ---
 
@@ -44,12 +45,25 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**ML / AI**
+**LLM / GenAI Engineering**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1E1E1E?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+*RAG · QLoRA Fine-Tuning · Prompt Engineering · Vector Embeddings*
+
+**ML / Deep Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+*timm · torchvision · Vision Transformers (ViT) · Mixed Precision (FP16/AMP) · Transfer Learning*
 
 **Tools**
 
@@ -58,20 +72,47 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🐍 Indian Snake Species Classifier
-> Fine-tuned **DINOv2 ViT-L/14** on SnakeCLEF 2022 to classify 48 Indian species — **~95% validation accuracy**
+### 🔍 Creatine RAG Assistant — Grounded, Citation-Verified Research Assistant
+> Multi-layer RAG pipeline over 423 curated PubMed Central articles with hallucination-checking and confidence-based abstention
 
-- Two-phase training: frozen backbone warm-up → full fine-tuning
-- Mixed precision (FP16), gradient clipping, multi-GPU via DataParallel
-- Built evaluation suite: confusion matrix, ROC curves, CAM visualizations
-- Preprocessed 1,500+ global species down to 48 well-represented Indian species
+- ChromaDB vector store with S-PubMedBert embeddings for topic-routed retrieval and paper ranking
+- Extracts numeric facts (dosages, sample sizes, percentages) and verifies each appears verbatim in its source chunk
+- Cross-checks every generated citation against retrieved chunks to flag possible hallucinations
+- Pre-LLM relevance threshold so the system explicitly abstains under low retrieval confidence instead of guessing
+- FastAPI backend + React frontend with a retrieval-trace panel
+
+`Python` `FastAPI` `ChromaDB` `SentenceTransformers` `Groq LLM` `React`
+
+---
+
+### 🐍 SerpentAI — Indian Snake Species Classifier
+> Fine-tuned **DINOv2 ViT-L/14** on 13K+ SnakeCLEF 2022 images to build a 49-class classifier — **94.8% validation accuracy (98.4% top-5)**
+
+- 49 classes: 48 Indian snake species + a self-curated "no-snake" distractor class
+- Two-phase, 30-epoch training: backbone frozen for 7 epochs (head warm-up) → fully unfrozen with cosine-annealed LR
+- Mixed precision (FP16/AMP) training with gradient clipping, checkpoint-based resume support
+- Multi-GPU (2×) training via DataParallel
 
 `Python` `PyTorch` `timm` `DINOv2` `scikit-learn` `FP16/AMP` `Kaggle`
+
+---
+
+### ⚡ ProdHack — AI-Powered Productivity Tool
+> Gamifies study sessions with AI-generated quiz challenges powered by **Gemini API** · Runner-up, "Can You Hack It" hackathon (Productive Track)
+
+- User signup/login, profile dashboard, real-time 1v1 productivity battle rooms
+- PDF upload and AI quiz generation
+- Store items, wallet, theme equip flow, and playlist slots
+- Leaderboard based on player progress
+- CORS-ready deployment config for Vercel + Render
+
+`React` `Express.js` `MongoDB` `Gemini API`
 
 ---
 
@@ -86,18 +127,13 @@
 
 ---
 
-### ⚡ ProdHack — AI-Powered Productivity Tool
-> Gamifies study sessions with AI-generated quiz challenges powered by **Gemini API**
+## 🏆 Achievements
 
-- User signup and login
-- Profile dashboard
-- Real-time 1v1 productivity battle rooms
-- PDF upload and AI quiz generation
-- Store items, wallet, theme equip flow, and playlist slots
-- Leaderboard based on player progress
-- CORS-ready deployment config for Vercel + Render
-
-`React` `Express.js` `Gemini API`
+- 🥈 Runner-up, Productive Track — *"Can You Hack It"* (intra-college 24-hour hackathon), for ProdHack
+- 🎯 Semifinalist, Flipkart Grid 8.0
+- 📜 AI Engineer Core Track: LLM Engineering, RAG, QLoRA & Agents — Ligency/Ed Donner (Udemy)
+- 📜 Programming with JavaScript — Meta (Coursera)
+- 📜 HTML & CSS in Depth — Meta (Coursera)
 
 ---
 
@@ -117,6 +153,6 @@
 ---
 
 <div align="center">
-  <i>Open to internship opportunities in Full-Stack Development, ML, and Systems programming.</i><br/>
+  <i>Open to internship opportunities in Full-Stack Development, ML, and LLM/RAG Engineering.</i><br/>
   <b>Let's build something meaningful together.</b>
 </div>
