@@ -2,7 +2,7 @@
 
 <img src="assets/banner.gif" width="100%" alt="Rounak Prajapati" />
 
-<img src="assets/trickster_icon_2.gif" width="90" alt="trickster sprite" />
+<img src="assets/trickster_icon.gif" width="90" alt="trickster sprite" />
 
 ### full-stack dev · llm / rag engineering · computer vision
 
