@@ -1,94 +1,103 @@
 <div align="center">
 
-# Hey, I'm Rounak Prajapati 👋
+<img src="assets/banner.gif" width="100%" alt="Rounak Prajapati" />
 
-**CS undergrad at IIITDM Jabalpur** · Full-Stack Dev · LLM/RAG Engineering · Computer Vision enthusiast
+<img src="assets/trickster_icon.gif" width="90" alt="trickster sprite" />
 
-[![Email](https://img.shields.io/badge/Email-rounakprajapati7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rounakprajapati7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rounak%20Prajapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-prajapati-3896jee)
+### full-stack dev · llm / rag engineering · computer vision
+
+[![Email](https://img.shields.io/badge/Email-rounakprajapati7%40gmail.com-0b3d24?style=flat-square&logo=gmail&logoColor=C9A644)](mailto:rounakprajapati7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rounak%20Prajapati-1b5e3c?style=flat-square&logo=linkedin&logoColor=C9A644)](https://www.linkedin.com/in/rounak-prajapati-3896jee)
+[![GitHub](https://img.shields.io/badge/GitHub-raunakprajapatii-0b3d24?style=flat-square&logo=github&logoColor=C9A644)](https://github.com/raunakprajapatii)
 
 </div>
 
 ---
 
-## About Me
+### ⟡ about
 
-- 🎓 **B.Tech CSE** @ IIITDM Jabalpur (Batch 2024–2028) · CPI: **8.5** (till Sem IV)
-- 🔭 Currently building on full-stack + deep learning foundations through structured coursework in **RAG and LLM engineering**
+- 🎓 **B.Tech CSE** @ IIITDM Jabalpur (Batch 2024–2028) · CPI **8.5** (till Sem IV)
+- 🔭 Building on full-stack + deep learning foundations, currently deep in **RAG and LLM engineering**
 - 🤝 Open to internships, open-source contributions, and collaborations
-- 🎾 Active lawn tennis club member; also love music and drawing
+- 🎾 Lawn tennis club member · also into music and drawing
 
 ---
 
-## 🛠️ Tech Stack
+### ⟡ tech stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-0b3d24?style=flat-square&logo=c&logoColor=C9A644)
+![C++](https://img.shields.io/badge/C++-0b3d24?style=flat-square&logo=c%2B%2B&logoColor=C9A644)
+![Python](https://img.shields.io/badge/Python-0b3d24?style=flat-square&logo=python&logoColor=C9A644)
+![JavaScript](https://img.shields.io/badge/JavaScript-1b5e3c?style=flat-square&logo=javascript&logoColor=C9A644)
+![Java](https://img.shields.io/badge/Java-0b3d24?style=flat-square&logo=openjdk&logoColor=C9A644)
+![PHP](https://img.shields.io/badge/PHP-1b5e3c?style=flat-square&logo=php&logoColor=C9A644)
 
 **Web & Databases**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-0b3d24?style=flat-square&logo=react&logoColor=C9A644)
+![Express.js](https://img.shields.io/badge/Express.js-1b5e3c?style=flat-square&logo=express&logoColor=C9A644)
+![Node.js](https://img.shields.io/badge/Node.js-0b3d24?style=flat-square&logo=nodedotjs&logoColor=C9A644)
+![HTML5](https://img.shields.io/badge/HTML5-1b5e3c?style=flat-square&logo=html5&logoColor=C9A644)
+![CSS3](https://img.shields.io/badge/CSS3-0b3d24?style=flat-square&logo=css3&logoColor=C9A644)
+![MySQL](https://img.shields.io/badge/MySQL-1b5e3c?style=flat-square&logo=mysql&logoColor=C9A644)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b3d24?style=flat-square&logo=mongodb&logoColor=C9A644)
 
 **LLM / GenAI Engineering**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1E1E1E?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0b3d24?style=flat-square&logo=langchain&logoColor=C9A644)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1b5e3c?style=flat-square&logo=huggingface&logoColor=C9A644)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b3d24?style=flat-square&logo=fastapi&logoColor=C9A644)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1b5e3c?style=flat-square&logoColor=C9A644)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-0b3d24?style=flat-square&logo=openai&logoColor=C9A644)
+![Gemini](https://img.shields.io/badge/Gemini%20API-1b5e3c?style=flat-square&logo=googlegemini&logoColor=C9A644)
 
 *RAG · QLoRA Fine-Tuning · Prompt Engineering · Vector Embeddings*
 
 **ML / Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0b3d24?style=flat-square&logo=pytorch&logoColor=C9A644)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1b5e3c?style=flat-square&logo=scikit-learn&logoColor=C9A644)
+![NumPy](https://img.shields.io/badge/NumPy-0b3d24?style=flat-square&logo=numpy&logoColor=C9A644)
+![Pandas](https://img.shields.io/badge/Pandas-1b5e3c?style=flat-square&logo=pandas&logoColor=C9A644)
 
 *timm · torchvision · Vision Transformers (ViT) · Mixed Precision (FP16/AMP) · Transfer Learning*
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0b3d24?style=flat-square&logo=git&logoColor=C9A644)
+![GitHub](https://img.shields.io/badge/GitHub-1b5e3c?style=flat-square&logo=github&logoColor=C9A644)
+![VS Code](https://img.shields.io/badge/VS%20Code-0b3d24?style=flat-square&logo=visual-studio-code&logoColor=C9A644)
+![Kaggle](https://img.shields.io/badge/Kaggle-1b5e3c?style=flat-square&logo=kaggle&logoColor=C9A644)
+![Jupyter](https://img.shields.io/badge/Jupyter-0b3d24?style=flat-square&logo=jupyter&logoColor=C9A644)
+![Postman](https://img.shields.io/badge/Postman-1b5e3c?style=flat-square&logo=postman&logoColor=C9A644)
 
 ---
 
-## 🚀 Featured Projects
+### ⟡ featured projects
 
-### 🔍 Creatine RAG Assistant — Grounded, Citation-Verified Research Assistant
-> Multi-layer RAG pipeline over 423 curated PubMed Central articles with hallucination-checking and confidence-based abstention
+<details open>
+<summary><b>🔍 Creatine RAG Assistant — grounded, citation-verified research assistant</b></summary>
+<br>
+
+Multi-layer RAG pipeline over 423 curated PubMed Central articles with hallucination-checking and confidence-based abstention.
 
 - ChromaDB vector store with S-PubMedBert embeddings for topic-routed retrieval and paper ranking
 - Extracts numeric facts (dosages, sample sizes, percentages) and verifies each appears verbatim in its source chunk
 - Cross-checks every generated citation against retrieved chunks to flag possible hallucinations
-- Pre-LLM relevance threshold so the system explicitly abstains under low retrieval confidence instead of guessing
+- Pre-LLM relevance threshold — the system explicitly abstains under low retrieval confidence instead of guessing
 - FastAPI backend + React frontend with a retrieval-trace panel
 
 `Python` `FastAPI` `ChromaDB` `SentenceTransformers` `Groq LLM` `React`
 
----
+</details>
 
-### 🐍 SerpentAI — Indian Snake Species Classifier
-> Fine-tuned **DINOv2 ViT-L/14** on 13K+ SnakeCLEF 2022 images to build a 49-class classifier — **94.8% validation accuracy (98.4% top-5)**
+<details open>
+<summary><b>🐍 SerpentAI — Indian Snake Species Classifier</b></summary>
+<br>
+
+Fine-tuned **DINOv2 ViT-L/14** on 13K+ SnakeCLEF 2022 images to build a 49-class classifier — **94.8% validation accuracy (98.4% top-5)**.
 
 - 49 classes: 48 Indian snake species + a self-curated "no-snake" distractor class
 - Two-phase, 30-epoch training: backbone frozen for 7 epochs (head warm-up) → fully unfrozen with cosine-annealed LR
@@ -97,10 +106,13 @@
 
 `Python` `PyTorch` `timm` `DINOv2` `scikit-learn` `FP16/AMP` `Kaggle`
 
----
+</details>
 
-### ⚡ ProdHack — AI-Powered Productivity Tool
-> Gamifies study sessions with AI-generated quiz challenges powered by **Gemini API** · Runner-up, "Can You Hack It" hackathon (Productive Track)
+<details>
+<summary><b>⚡ ProdHack — AI-powered productivity tool</b></summary>
+<br>
+
+Gamifies study sessions with AI-generated quiz challenges powered by **Gemini API** · Runner-up, "Can You Hack It" hackathon (Productive Track).
 
 - User signup/login, profile dashboard, real-time 1v1 productivity battle rooms
 - PDF upload and AI quiz generation
@@ -110,10 +122,13 @@
 
 `React` `Express.js` `MongoDB` `Gemini API`
 
----
+</details>
 
-### 🌍 WanderWise — Travel Planning Web App
-> Full-stack travel planner with 100+ destination records and full CRUD operations
+<details>
+<summary><b>🌍 WanderWise — travel planning web app</b></summary>
+<br>
+
+Full-stack travel planner with 100+ destination records and full CRUD operations.
 
 - RESTful API backend with modular Express.js routing and middleware
 - Responsive React frontend optimized for mobile and desktop
@@ -121,9 +136,11 @@
 
 `React` `Express.js` `Node.js` `MySQL` `REST APIs`
 
+</details>
+
 ---
 
-## 🏆 Achievements
+### ⟡ achievements
 
 - 🥈 Runner-up, Productive Track — *"Can You Hack It"* (intra-college 24-hour hackathon), for ProdHack
 - 🎯 Semifinalist, Flipkart Grid 8.0
@@ -133,7 +150,7 @@
 
 ---
 
-## 📈 GitHub Stats
+### ⟡ github stats
 
 <div align="center">
 
@@ -141,9 +158,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raunakprajapatii&theme=tokyonight)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=raunakprajapatii&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=raunakprajapatii&theme=tokyo-night&color=c9a644&line=2ecc71&point=2ecc71)
 
 ![](https://github-profile-trophy.vercel.app/?username=raunakprajapatii&theme=tokyonight&no-frame=true&margin-w=15)
+
 </div>
 
 ---
