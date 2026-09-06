@@ -154,13 +154,14 @@ Full-stack travel planner with 100+ destination records and full CRUD operations
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raunakprajapatii&theme=tokyonight)
+<img src="https://gh-readme-profile.vercel.app/api?username=raunakprajapatii&bg_color=0D1117&title_color=C9A644&text_color=E6E6E6&icon_color=2ECC71&border_color=1b5e3c&stroke_color=1b5e3c&username_color=C9A644" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakprajapatii&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A644&text_color=E6E6E6" width="35%" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raunakprajapatii&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=raunakprajapatii&hide_border=true&background=0D1117&ring=2ECC71&fire=C9A644&currStreakLabel=C9A644&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=808080" width="70%" />
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=raunakprajapatii&theme=tokyo-night&color=c9a644&line=2ecc71&point=2ecc71)
+![](https://github-readme-activity-graph.vercel.app/graph?username=raunakprajapatii&bg_color=0D1117&color=E6E6E6&line=2ECC71&point=C9A644&area=true&area_color=1b5e3c&hide_border=true)
 
-![](https://github-profile-trophy.vercel.app/?username=raunakprajapatii&theme=tokyonight&no-frame=true&margin-w=15)
+<img src="assets/achievements.svg" width="90%" alt="achievements" />
 
 </div>
 
