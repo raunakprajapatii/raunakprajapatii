@@ -143,13 +143,14 @@ Full-stack travel planner with 100+ destination records and full CRUD operations
 ### ⟡ github stats
 
 <div align="center">
+  
+<img src="https://streak-stats.demolab.com/?user=raunakprajapatii&hide_border=true&background=0D1117&ring=2ECC71&fire=C9A644&currStreakLabel=C9A644&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=808080" width="70%" />
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=raunakprajapatii&bg_color=0D1117&color=E6E6E6&line=2ECC71&point=C9A644&area=true&area_color=1b5e3c&hide_border=true)
 
 <img src="profile/stats.svg" width="48%" />
 <img src="profile/top-langs.svg" width="38%" />
 
-<img src="https://streak-stats.demolab.com/?user=raunakprajapatii&hide_border=true&background=0D1117&ring=2ECC71&fire=C9A644&currStreakLabel=C9A644&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=808080" width="70%" />
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=raunakprajapatii&bg_color=0D1117&color=E6E6E6&line=2ECC71&point=C9A644&area=true&area_color=1b5e3c&hide_border=true)
 
 </div>
 
