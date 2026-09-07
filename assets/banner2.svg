@@ -1,0 +1,896 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0Yjg5NWNhNy0wYjY5LTRjOTAtYTA3Zi0yODZlZDBlZmQ2MzYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaA4dPdWAEKYAMgkKNcy/2ikAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0NjRkYzdlOS1iZGU4LTQ4MzEtYTlmOS1hZWUwZmNiYzlkMmRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo0wuiGvEa44GIQbDqmjxBpgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggujs+NA9EtNbkpMGCBDm99bEFwqSryUaVv1+APB7d6EmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJBc4HVBQoGkJteg9026rwMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBVNxcmP9SiG2f9p+T1Dyg2/uQydHUmZUp+vl8DjyV8nGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjRiODk1Y2E3LTBiNjktNGM5MC1hMDdmLTI4NmVkMGVmZDYzNi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjRjNzIwNjNmLWVmZGEtNGFjMi1hOGMzLTI1YjY4ZWNlOGYxNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC6Oz40D0S01uSkwYIEOb31sQXCpKvJRpW/X4A8Ht3oSaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg9trnUzaEWrvPppCwzidWr/sLNnkugMinOIFaqF/BabSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggAs9FcG4nwb5cVs3aFxfQRh1RttWD982VQEOSsIqLKNV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPksL8x61Xwu17Lc1gLltyZfjfe5+rwVN7uRjFHC5RPxAbIC79CEXNv1UtIABCLQBoOS9WEUcP0VI06IjquCY4U=</c2pa:manifest></metadata>
+<defs>
+  <radialGradient id="space" cx="50%" cy="45%" r="75%">
+    <stop offset="0%" stop-color="#070810"/>
+    <stop offset="55%" stop-color="#03040a"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </radialGradient>
+</defs>
+
+<style>
+  text { font-weight: 700; }
+  .subtitle { font-family: 'Courier New', monospace; font-weight: 400; letter-spacing: 2px; }
+@keyframes nameGlow {
+  0.0% { opacity:0; fill:#7d828b; filter:brightness(0.55) drop-shadow(0 0 2px rgba(255,255,255,0.15)); }
+  2.41% { opacity:1; fill:#9096a0; filter:brightness(0.65) drop-shadow(0 0 3px rgba(255,255,255,0.2)); }
+  2.41% { opacity:1; fill:#7d828b; filter:brightness(0.5) drop-shadow(0 0 2px rgba(255,255,255,0.15)); }
+  4.819% { opacity:1; fill:#ffffff; filter:brightness(1.7) drop-shadow(0 0 26px rgba(255,255,255,0.95)); }
+  7.229% { opacity:1; fill:#7d828b; filter:brightness(0.5) drop-shadow(0 0 2px rgba(255,255,255,0.15)); }
+  9.639% { opacity:1; fill:#ffffff; filter:brightness(1.7) drop-shadow(0 0 26px rgba(255,255,255,0.95)); }
+  12.048% { opacity:1; fill:#7d828b; filter:brightness(0.5) drop-shadow(0 0 2px rgba(255,255,255,0.15)); }
+  14.458% { opacity:1; fill:#ffffff; filter:brightness(1.7) drop-shadow(0 0 26px rgba(255,255,255,0.95)); }
+  16.867% { opacity:1; fill:#7d828b; filter:brightness(0.5) drop-shadow(0 0 2px rgba(255,255,255,0.15)); }
+  19.277% { opacity:1; fill:#ffffff; filter:brightness(1.7) drop-shadow(0 0 26px rgba(255,255,255,0.95)); }
+  21.687% { opacity:1; fill:#7d828b; filter:brightness(0.5) drop-shadow(0 0 2px rgba(255,255,255,0.15)); }
+  24.096% { opacity:1; fill:#ffffff; filter:brightness(1.7) drop-shadow(0 0 26px rgba(255,255,255,0.95)); }
+  26.506% { opacity:1; fill:#7d828b; filter:brightness(0.5) drop-shadow(0 0 2px rgba(255,255,255,0.15)); }
+  28.916% { opacity:1; fill:#ffffff; filter:brightness(1.7) drop-shadow(0 0 26px rgba(255,255,255,0.95)); }
+  31.325% { opacity:1; fill:#ffffff; filter:brightness(2.0) drop-shadow(0 0 34px rgba(255,255,255,1.0)); }
+  32.771% { opacity:1; fill:#ffffff; filter:brightness(1.0) drop-shadow(0 0 10px rgba(255,255,255,0.55)); }
+  42.12% { opacity:1; fill:#ffffff; filter:brightness(1.35) drop-shadow(0 0 22px rgba(255,255,255,0.9)); }
+  51.47% { opacity:1; fill:#ffffff; filter:brightness(0.75) drop-shadow(0 0 6px rgba(255,255,255,0.3)); }
+  60.819% { opacity:1; fill:#ffffff; filter:brightness(1.35) drop-shadow(0 0 22px rgba(255,255,255,0.9)); }
+  70.169% { opacity:1; fill:#ffffff; filter:brightness(0.75) drop-shadow(0 0 6px rgba(255,255,255,0.3)); }
+  79.518% { opacity:1; fill:#ffffff; filter:brightness(1.0) drop-shadow(0 0 10px rgba(255,255,255,0.55)); }
+  95.181% { opacity:0; fill:#ffffff; filter:brightness(1.0) drop-shadow(0 0 0px rgba(255,255,255,0)); }
+  100.0% { opacity:0; }
+}
+.nameGlow { animation: nameGlow 8.3s ease infinite; }
+
+
+@keyframes subtitleFade {
+  0% { opacity: 0; }
+  40.0% { opacity: 0; }
+  49.639% { opacity: 1; }
+  79.518% { opacity: 1; }
+  95.181% { opacity: 0; }
+  100% { opacity: 0; }
+}
+.subtitle { animation: subtitleFade 8.3s ease-out infinite; }
+
+
+@keyframes twinkle1 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.606467643974826; }
+  100% { opacity: 0.05; }
+}
+.star1 { animation: twinkle1 2.817495546703528s ease-in-out 2.547115134855084s infinite; }
+
+
+@keyframes twinkle3 {
+  0% { opacity: 0.18914143739093225; }
+  50% { opacity: 0.7891414373909322; }
+  100% { opacity: 0.18914143739093225; }
+}
+.star3 { animation: twinkle3 3.0048927917510313s ease-in-out 0.7067534284702102s infinite; }
+
+
+@keyframes twinkle6 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5268234314887462; }
+  100% { opacity: 0.05; }
+}
+.star6 { animation: twinkle6 5.2294037070448525s ease-in-out 0.49113006477461907s infinite; }
+
+
+@keyframes twinkle7 {
+  0% { opacity: 0.13366147445886362; }
+  50% { opacity: 0.7336614744588636; }
+  100% { opacity: 0.13366147445886362; }
+}
+.star7 { animation: twinkle7 5.9306119662240375s ease-in-out 0.7083946695297727s infinite; }
+
+
+@keyframes twinkle12 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.4703511916271447; }
+  100% { opacity: 0.05; }
+}
+.star12 { animation: twinkle12 5.1888154596538225s ease-in-out 0.7760413321121054s infinite; }
+
+
+@keyframes twinkle13 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.6334978805828837; }
+  100% { opacity: 0.05; }
+}
+.star13 { animation: twinkle13 3.9057548971700644s ease-in-out 1.667034784706704s infinite; }
+
+
+@keyframes twinkle19 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.6094695533796428; }
+  100% { opacity: 0.05; }
+}
+.star19 { animation: twinkle19 4.602545411765684s ease-in-out 0.6142775863513326s infinite; }
+
+
+@keyframes twinkle20 {
+  0% { opacity: 0.08390702307943537; }
+  50% { opacity: 0.6839070230794353; }
+  100% { opacity: 0.08390702307943537; }
+}
+.star20 { animation: twinkle20 3.2278343897256363s ease-in-out 2.2573761708386457s infinite; }
+
+
+@keyframes twinkle21 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5765902789971615; }
+  100% { opacity: 0.05; }
+}
+.star21 { animation: twinkle21 5.471279242696152s ease-in-out 5.958616330228283s infinite; }
+
+
+@keyframes twinkle30 {
+  0% { opacity: 0.16384681028535392; }
+  50% { opacity: 0.763846810285354; }
+  100% { opacity: 0.16384681028535392; }
+}
+.star30 { animation: twinkle30 4.81204977571713s ease-in-out 5.458662825310338s infinite; }
+
+
+@keyframes twinkle33 {
+  0% { opacity: 0.1667958522738444; }
+  50% { opacity: 0.7667958522738444; }
+  100% { opacity: 0.1667958522738444; }
+}
+.star33 { animation: twinkle33 5.392786674838854s ease-in-out 5.881835660682183s infinite; }
+
+
+@keyframes twinkle34 {
+  0% { opacity: 0.05576279071214091; }
+  50% { opacity: 0.6557627907121408; }
+  100% { opacity: 0.05576279071214091; }
+}
+.star34 { animation: twinkle34 5.297749540940789s ease-in-out 4.35822033806181s infinite; }
+
+
+@keyframes twinkle36 {
+  0% { opacity: 0.14838230730718366; }
+  50% { opacity: 0.7483823073071836; }
+  100% { opacity: 0.14838230730718366; }
+}
+.star36 { animation: twinkle36 4.4052346793304675s ease-in-out 5.0051699786368165s infinite; }
+
+
+@keyframes twinkle38 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.6451078318024815; }
+  100% { opacity: 0.05; }
+}
+.star38 { animation: twinkle38 4.040437193347302s ease-in-out 1.0986473236331924s infinite; }
+
+
+@keyframes twinkle40 {
+  0% { opacity: 0.15723716440715452; }
+  50% { opacity: 0.7572371644071545; }
+  100% { opacity: 0.15723716440715452; }
+}
+.star40 { animation: twinkle40 4.461036467543833s ease-in-out 1.49096592625854s infinite; }
+
+
+@keyframes twinkle41 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.6144356485571238; }
+  100% { opacity: 0.05; }
+}
+.star41 { animation: twinkle41 5.629042272967906s ease-in-out 0.38021302714564165s infinite; }
+
+
+@keyframes twinkle44 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.47896780743564615; }
+  100% { opacity: 0.05; }
+}
+.star44 { animation: twinkle44 4.0474133089626525s ease-in-out 0.4352765979389297s infinite; }
+
+
+@keyframes twinkle45 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.550195432358179; }
+  100% { opacity: 0.05; }
+}
+.star45 { animation: twinkle45 5.219264068011665s ease-in-out 5.637027951305503s infinite; }
+
+
+@keyframes twinkle47 {
+  0% { opacity: 0.1779512078776675; }
+  50% { opacity: 0.7779512078776675; }
+  100% { opacity: 0.1779512078776675; }
+}
+.star47 { animation: twinkle47 4.010326362991736s ease-in-out 3.0936303468261546s infinite; }
+
+
+@keyframes twinkle50 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.45614634479725835; }
+  100% { opacity: 0.05; }
+}
+.star50 { animation: twinkle50 5.670645410019837s ease-in-out 1.0893083484670263s infinite; }
+
+
+@keyframes twinkle52 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5606308565174696; }
+  100% { opacity: 0.05; }
+}
+.star52 { animation: twinkle52 5.2985564351731504s ease-in-out 1.1000641923539505s infinite; }
+
+
+@keyframes twinkle55 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5225275528683822; }
+  100% { opacity: 0.05; }
+}
+.star55 { animation: twinkle55 3.0650718205916396s ease-in-out 0.3022783032571956s infinite; }
+
+
+@keyframes twinkle56 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.648366911013307; }
+  100% { opacity: 0.05; }
+}
+.star56 { animation: twinkle56 4.059904055672214s ease-in-out 4.032943197096879s infinite; }
+
+
+@keyframes twinkle57 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.43588822116403897; }
+  100% { opacity: 0.05; }
+}
+.star57 { animation: twinkle57 4.269788935249089s ease-in-out 5.868309759622358s infinite; }
+
+
+@keyframes twinkle59 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5523467114994596; }
+  100% { opacity: 0.05; }
+}
+.star59 { animation: twinkle59 3.3034818708856863s ease-in-out 1.1917468979486765s infinite; }
+
+
+@keyframes twinkle60 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5940200147439418; }
+  100% { opacity: 0.05; }
+}
+.star60 { animation: twinkle60 2.690359878759527s ease-in-out 0.7789114869052971s infinite; }
+
+
+@keyframes twinkle61 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.6052185043707192; }
+  100% { opacity: 0.05; }
+}
+.star61 { animation: twinkle61 4.828296880755136s ease-in-out 2.2852907122912027s infinite; }
+
+
+@keyframes twinkle62 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5241515616167692; }
+  100% { opacity: 0.05; }
+}
+.star62 { animation: twinkle62 4.108085301881522s ease-in-out 0.9451976389752341s infinite; }
+
+
+@keyframes twinkle64 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5641930970855016; }
+  100% { opacity: 0.05; }
+}
+.star64 { animation: twinkle64 3.4762510527646096s ease-in-out 3.9361072272500417s infinite; }
+
+
+@keyframes twinkle65 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5335925348947126; }
+  100% { opacity: 0.05; }
+}
+.star65 { animation: twinkle65 3.8982890960112404s ease-in-out 0.25000174614691617s infinite; }
+
+
+@keyframes twinkle67 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5874920825559935; }
+  100% { opacity: 0.05; }
+}
+.star67 { animation: twinkle67 5.946551797760037s ease-in-out 0.896778894253518s infinite; }
+
+
+@keyframes twinkle82 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.6138269292140774; }
+  100% { opacity: 0.05; }
+}
+.star82 { animation: twinkle82 2.992475270901875s ease-in-out 2.063760878567672s infinite; }
+
+
+@keyframes twinkle83 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5595554623962613; }
+  100% { opacity: 0.05; }
+}
+.star83 { animation: twinkle83 3.8939084553729346s ease-in-out 5.6392861571788275s infinite; }
+
+
+@keyframes twinkle86 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5272096280570819; }
+  100% { opacity: 0.05; }
+}
+.star86 { animation: twinkle86 4.288370457325911s ease-in-out 1.1390942829780413s infinite; }
+
+
+@keyframes twinkle90 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5946699839985221; }
+  100% { opacity: 0.05; }
+}
+.star90 { animation: twinkle90 4.1911370862321995s ease-in-out 4.013255926714887s infinite; }
+
+
+@keyframes twinkle94 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5103021224741063; }
+  100% { opacity: 0.05; }
+}
+.star94 { animation: twinkle94 5.1323885114282985s ease-in-out 2.9888753717027456s infinite; }
+
+
+@keyframes twinkle102 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5024317590659502; }
+  100% { opacity: 0.05; }
+}
+.star102 { animation: twinkle102 5.2667051896729555s ease-in-out 0.006912142506016572s infinite; }
+
+
+@keyframes twinkle104 {
+  0% { opacity: 0.12300107500962537; }
+  50% { opacity: 0.7230010750096254; }
+  100% { opacity: 0.12300107500962537; }
+}
+.star104 { animation: twinkle104 2.576255844379986s ease-in-out 2.9898614682934515s infinite; }
+
+
+@keyframes twinkle106 {
+  0% { opacity: 0.11350367367590991; }
+  50% { opacity: 0.7135036736759099; }
+  100% { opacity: 0.11350367367590991; }
+}
+.star106 { animation: twinkle106 5.289724759924331s ease-in-out 4.434775330654519s infinite; }
+
+
+@keyframes twinkle108 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.6331788336660138; }
+  100% { opacity: 0.05; }
+}
+.star108 { animation: twinkle108 3.281634484959279s ease-in-out 2.502174492645085s infinite; }
+
+
+@keyframes twinkle109 {
+  0% { opacity: 0.21642712368956057; }
+  50% { opacity: 0.8164271236895606; }
+  100% { opacity: 0.21642712368956057; }
+}
+.star109 { animation: twinkle109 2.5827005163536887s ease-in-out 3.576762831594545s infinite; }
+
+
+@keyframes twinkle112 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5807699565108317; }
+  100% { opacity: 0.05; }
+}
+.star112 { animation: twinkle112 3.092413297901688s ease-in-out 0.017224345128625806s infinite; }
+
+
+@keyframes twinkle116 {
+  0% { opacity: 0.1654353744211271; }
+  50% { opacity: 0.7654353744211271; }
+  100% { opacity: 0.1654353744211271; }
+}
+.star116 { animation: twinkle116 3.1822950811349138s ease-in-out 0.3771104469247957s infinite; }
+
+
+@keyframes twinkle121 {
+  0% { opacity: 0.08111931943551659; }
+  50% { opacity: 0.6811193194355165; }
+  100% { opacity: 0.08111931943551659; }
+}
+.star121 { animation: twinkle121 3.618420735841499s ease-in-out 2.1711506448909503s infinite; }
+
+
+@keyframes twinkle122 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5884247260819437; }
+  100% { opacity: 0.05; }
+}
+.star122 { animation: twinkle122 3.927148690272611s ease-in-out 3.8972759858010875s infinite; }
+
+
+@keyframes twinkle126 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.5350963287083621; }
+  100% { opacity: 0.05; }
+}
+.star126 { animation: twinkle126 3.4111726820257697s ease-in-out 2.636386569474449s infinite; }
+
+
+@keyframes twinkle128 {
+  0% { opacity: 0.09934548189960751; }
+  50% { opacity: 0.6993454818996074; }
+  100% { opacity: 0.09934548189960751; }
+}
+.star128 { animation: twinkle128 4.123704943570083s ease-in-out 0.22213885645564257s infinite; }
+
+
+@keyframes twinkle131 {
+  0% { opacity: 0.10584490684160514; }
+  50% { opacity: 0.7058449068416051; }
+  100% { opacity: 0.10584490684160514; }
+}
+.star131 { animation: twinkle131 4.731100526351591s ease-in-out 4.258236614761411s infinite; }
+
+
+@keyframes twinkle132 {
+  0% { opacity: 0.05; }
+  50% { opacity: 0.48078887841844264; }
+  100% { opacity: 0.05; }
+}
+.star132 { animation: twinkle132 3.3921978558139947s ease-in-out 3.596540215562065s infinite; }
+
+
+@keyframes twinkle134 {
+  0% { opacity: 0.05565927869012971; }
+  50% { opacity: 0.6556592786901296; }
+  100% { opacity: 0.05565927869012971; }
+}
+.star134 { animation: twinkle134 2.8548571861196574s ease-in-out 2.3717802761804947s infinite; }
+
+
+@keyframes twinkle140 {
+  0% { opacity: 0.49249425101483024; }
+  50% { opacity: 1.0; }
+  100% { opacity: 0.49249425101483024; }
+}
+.star140 { animation: twinkle140 3.0423177506295636s ease-in-out 5.5529987395001985s infinite; }
+
+
+@keyframes twinkle141 {
+  0% { opacity: 0.5755938436199826; }
+  50% { opacity: 1.0; }
+  100% { opacity: 0.5755938436199826; }
+}
+.star141 { animation: twinkle141 2.086994677417674s ease-in-out 5.476791790846131s infinite; }
+
+
+@keyframes twinkle142 {
+  0% { opacity: 0.5568465422321218; }
+  50% { opacity: 1.0; }
+  100% { opacity: 0.5568465422321218; }
+}
+.star142 { animation: twinkle142 3.3764331314646565s ease-in-out 5.3468238186959685s infinite; }
+
+
+@keyframes twinkle143 {
+  0% { opacity: 0.4794169416604799; }
+  50% { opacity: 1.0; }
+  100% { opacity: 0.4794169416604799; }
+}
+.star143 { animation: twinkle143 2.945910411819302s ease-in-out 3.392563650822798s infinite; }
+
+
+@keyframes twinkle144 {
+  0% { opacity: 0.46845850551441365; }
+  50% { opacity: 1.0; }
+  100% { opacity: 0.46845850551441365; }
+}
+.star144 { animation: twinkle144 2.494117795984332s ease-in-out 4.349296144350606s infinite; }
+
+
+@keyframes twinkle145 {
+  0% { opacity: 0.49863041987761597; }
+  50% { opacity: 1.0; }
+  100% { opacity: 0.49863041987761597; }
+}
+.star145 { animation: twinkle145 2.779673033945557s ease-in-out 2.7344009824120326s infinite; }
+
+
+@keyframes twinkle146 {
+  0% { opacity: 0.4873888273824824; }
+  50% { opacity: 1.0; }
+  100% { opacity: 0.4873888273824824; }
+}
+.star146 { animation: twinkle146 2.778424108905236s ease-in-out 2.2047000578100704s infinite; }
+
+
+@keyframes twinkle147 {
+  0% { opacity: 0.5234252398445529; }
+  50% { opacity: 1.0; }
+  100% { opacity: 0.5234252398445529; }
+}
+.star147 { animation: twinkle147 2.4705018467727133s ease-in-out 4.581391168471065s infinite; }
+
+
+@keyframes twinkle148 {
+  0% { opacity: 0.5100513519053266; }
+  50% { opacity: 1.0; }
+  100% { opacity: 0.5100513519053266; }
+}
+.star148 { animation: twinkle148 2.134241314656375s ease-in-out 2.151450429734543s infinite; }
+
+@keyframes scramble0 {
+  0.0% { font-family:'Courier New', monospace; font-size:58.0px; }
+  2.41% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  7.229% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  12.048% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  16.867% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  21.687% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  26.506% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble0 { animation: scramble0 8.3s steps(1,end) infinite; }
+
+@keyframes scramble1 {
+  0.0% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  2.41% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  7.229% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  12.048% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  16.867% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  21.687% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  26.506% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble1 { animation: scramble1 8.3s steps(1,end) infinite; }
+
+@keyframes scramble2 {
+  0.0% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  2.41% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  7.229% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  12.048% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  16.867% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  21.687% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  26.506% { font-family:'Courier New', monospace; font-size:58.0px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble2 { animation: scramble2 8.3s steps(1,end) infinite; }
+
+@keyframes scramble3 {
+  0.0% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  2.41% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  7.229% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  12.048% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  16.867% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  21.687% { font-family:'Courier New', monospace; font-size:58.0px; }
+  26.506% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble3 { animation: scramble3 8.3s steps(1,end) infinite; }
+
+@keyframes scramble4 {
+  0.0% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  2.41% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  7.229% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  12.048% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  16.867% { font-family:'Courier New', monospace; font-size:58.0px; }
+  21.687% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  26.506% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble4 { animation: scramble4 8.3s steps(1,end) infinite; }
+
+@keyframes scramble5 {
+  0.0% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  2.41% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  7.229% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  12.048% { font-family:'Courier New', monospace; font-size:58.0px; }
+  16.867% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  21.687% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  26.506% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble5 { animation: scramble5 8.3s steps(1,end) infinite; }
+
+@keyframes scramble7 {
+  0.0% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  2.41% { font-family:'Courier New', monospace; font-size:58.0px; }
+  7.229% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  12.048% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  16.867% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  21.687% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  26.506% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble7 { animation: scramble7 8.3s steps(1,end) infinite; }
+
+@keyframes scramble8 {
+  0.0% { font-family:'Courier New', monospace; font-size:58.0px; }
+  2.41% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  7.229% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  12.048% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  16.867% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  21.687% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  26.506% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble8 { animation: scramble8 8.3s steps(1,end) infinite; }
+
+@keyframes scramble9 {
+  0.0% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  2.41% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  7.229% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  12.048% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  16.867% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  21.687% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  26.506% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble9 { animation: scramble9 8.3s steps(1,end) infinite; }
+
+@keyframes scramble10 {
+  0.0% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  2.41% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  7.229% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  12.048% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  16.867% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  21.687% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  26.506% { font-family:'Courier New', monospace; font-size:58.0px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble10 { animation: scramble10 8.3s steps(1,end) infinite; }
+
+@keyframes scramble11 {
+  0.0% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  2.41% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  7.229% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  12.048% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  16.867% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  21.687% { font-family:'Courier New', monospace; font-size:58.0px; }
+  26.506% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble11 { animation: scramble11 8.3s steps(1,end) infinite; }
+
+@keyframes scramble12 {
+  0.0% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  2.41% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  7.229% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  12.048% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  16.867% { font-family:'Courier New', monospace; font-size:58.0px; }
+  21.687% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  26.506% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble12 { animation: scramble12 8.3s steps(1,end) infinite; }
+
+@keyframes scramble13 {
+  0.0% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  2.41% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  7.229% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  12.048% { font-family:'Courier New', monospace; font-size:58.0px; }
+  16.867% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  21.687% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  26.506% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble13 { animation: scramble13 8.3s steps(1,end) infinite; }
+
+@keyframes scramble14 {
+  0.0% { font-family:'Comic Sans MS', cursive; font-size:60.9px; }
+  2.41% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  7.229% { font-family:'Courier New', monospace; font-size:58.0px; }
+  12.048% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  16.867% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  21.687% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  26.506% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble14 { animation: scramble14 8.3s steps(1,end) infinite; }
+
+@keyframes scramble15 {
+  0.0% { font-family:Verdana, sans-serif; font-size:53.4px; }
+  2.41% { font-family:'Courier New', monospace; font-size:58.0px; }
+  7.229% { font-family:Georgia, 'Times New Roman', serif; font-size:66.7px; }
+  12.048% { font-family:'Trebuchet MS', 'Segoe UI', sans-serif; font-size:51.0px; }
+  16.867% { font-family:Impact, 'Arial Narrow', sans-serif; font-size:55.1px; }
+  21.687% { font-family:'Arial Black', sans-serif; font-size:52.2px; }
+  26.506% { font-family:'Palatino Linotype', 'Book Antiqua', serif; font-size:63.8px; }
+  31.325% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+  100.0% { font-family:Georgia, 'Times New Roman', serif; font-size:58.0px; }
+}
+.scramble15 { animation: scramble15 8.3s steps(1,end) infinite; }
+
+</style>
+
+<rect x="0" y="0" width="1200" height="300" fill="url(#space)"/>
+
+<g>
+<circle cx="388.6" cy="45.3" r="1.3" fill="#ffffff" opacity="0.14"/>
+<circle class="star1" cx="1091.6" cy="64.4" r="0.5" fill="#ffffff" opacity="0.05"/>
+<circle cx="992.2" cy="37.1" r="0.6" fill="#ffffff" opacity="0.39"/>
+<circle class="star3" cx="59.5" cy="66.3" r="1.1" fill="#ffffff" opacity="0.19"/>
+<circle cx="370.2" cy="244.8" r="0.6" fill="#ffffff" opacity="0.16"/>
+<circle cx="854.5" cy="169.3" r="1.1" fill="#ffffff" opacity="0.21"/>
+<circle class="star6" cx="702.7" cy="136.0" r="0.8" fill="#ffffff" opacity="0.05"/>
+<circle class="star7" cx="360.3" cy="148.5" r="0.8" fill="#ffffff" opacity="0.13"/>
+<circle cx="501.7" cy="227.1" r="0.6" fill="#ffffff" opacity="0.52"/>
+<circle cx="669.7" cy="236.7" r="1.6" fill="#ffffff" opacity="0.25"/>
+<circle cx="547.4" cy="252.0" r="0.8" fill="#ffffff" opacity="0.32"/>
+<circle cx="776.6" cy="297.9" r="1.6" fill="#ffffff" opacity="0.31"/>
+<circle class="star12" cx="1128.8" cy="106.6" r="1.1" fill="#ffffff" opacity="0.05"/>
+<circle class="star13" cx="297.1" cy="117.3" r="1.6" fill="#ffffff" opacity="0.05"/>
+<circle cx="164.3" cy="129.2" r="1.1" fill="#ffffff" opacity="0.24"/>
+<circle cx="1149.3" cy="45.3" r="0.6" fill="#ffffff" opacity="0.19"/>
+<circle cx="218.8" cy="84.6" r="0.6" fill="#ffffff" opacity="0.30"/>
+<circle cx="828.6" cy="154.6" r="1.1" fill="#ffffff" opacity="0.40"/>
+<circle cx="1142.3" cy="204.2" r="1.1" fill="#ffffff" opacity="0.29"/>
+<circle class="star19" cx="74.7" cy="20.2" r="0.6" fill="#ffffff" opacity="0.05"/>
+<circle class="star20" cx="680.1" cy="161.0" r="0.8" fill="#ffffff" opacity="0.08"/>
+<circle class="star21" cx="761.3" cy="286.6" r="1.1" fill="#ffffff" opacity="0.05"/>
+<circle cx="559.2" cy="145.2" r="0.5" fill="#ffffff" opacity="0.18"/>
+<circle cx="830.5" cy="154.9" r="0.6" fill="#ffffff" opacity="0.53"/>
+<circle cx="32.5" cy="158.4" r="1.3" fill="#ffffff" opacity="0.49"/>
+<circle cx="200.5" cy="231.6" r="1.1" fill="#ffffff" opacity="0.35"/>
+<circle cx="946.1" cy="227.5" r="0.6" fill="#ffffff" opacity="0.47"/>
+<circle cx="621.2" cy="106.7" r="0.5" fill="#ffffff" opacity="0.55"/>
+<circle cx="726.2" cy="103.3" r="1.6" fill="#ffffff" opacity="0.52"/>
+<circle cx="264.6" cy="68.1" r="0.6" fill="#ffffff" opacity="0.27"/>
+<circle class="star30" cx="2.3" cy="272.8" r="0.8" fill="#ffffff" opacity="0.16"/>
+<circle cx="938.8" cy="225.0" r="0.9" fill="#ffffff" opacity="0.50"/>
+<circle cx="1135.4" cy="216.5" r="0.9" fill="#ffffff" opacity="0.29"/>
+<circle class="star33" cx="152.4" cy="45.3" r="0.9" fill="#ffffff" opacity="0.17"/>
+<circle class="star34" cx="788.7" cy="105.1" r="1.1" fill="#ffffff" opacity="0.06"/>
+<circle cx="123.3" cy="224.8" r="0.6" fill="#ffffff" opacity="0.31"/>
+<circle class="star36" cx="302.2" cy="87.9" r="0.6" fill="#ffffff" opacity="0.15"/>
+<circle cx="73.1" cy="222.0" r="0.9" fill="#ffffff" opacity="0.40"/>
+<circle class="star38" cx="1053.8" cy="39.2" r="0.6" fill="#ffffff" opacity="0.05"/>
+<circle cx="4.7" cy="239.8" r="0.6" fill="#ffffff" opacity="0.18"/>
+<circle class="star40" cx="818.8" cy="159.2" r="0.9" fill="#ffffff" opacity="0.16"/>
+<circle class="star41" cx="332.3" cy="231.7" r="1.1" fill="#ffffff" opacity="0.05"/>
+<circle cx="390.7" cy="292.0" r="1.1" fill="#ffffff" opacity="0.34"/>
+<circle cx="573.6" cy="282.5" r="1.3" fill="#ffffff" opacity="0.34"/>
+<circle class="star44" cx="1071.3" cy="60.8" r="0.9" fill="#ffffff" opacity="0.05"/>
+<circle class="star45" cx="288.8" cy="21.9" r="1.3" fill="#ffffff" opacity="0.05"/>
+<circle cx="772.1" cy="109.9" r="0.8" fill="#ffffff" opacity="0.50"/>
+<circle class="star47" cx="477.9" cy="146.2" r="1.3" fill="#ffffff" opacity="0.18"/>
+<circle cx="406.9" cy="58.7" r="0.8" fill="#ffffff" opacity="0.16"/>
+<circle cx="843.8" cy="115.3" r="1.1" fill="#ffffff" opacity="0.39"/>
+<circle class="star50" cx="946.0" cy="291.5" r="0.5" fill="#ffffff" opacity="0.05"/>
+<circle cx="906.9" cy="245.9" r="1.6" fill="#ffffff" opacity="0.51"/>
+<circle class="star52" cx="1103.0" cy="171.2" r="1.3" fill="#ffffff" opacity="0.05"/>
+<circle cx="1074.3" cy="80.7" r="0.5" fill="#ffffff" opacity="0.39"/>
+<circle cx="79.9" cy="258.8" r="0.9" fill="#ffffff" opacity="0.12"/>
+<circle class="star55" cx="746.0" cy="13.0" r="1.3" fill="#ffffff" opacity="0.05"/>
+<circle class="star56" cx="242.1" cy="93.6" r="0.8" fill="#ffffff" opacity="0.05"/>
+<circle class="star57" cx="324.6" cy="241.1" r="0.8" fill="#ffffff" opacity="0.05"/>
+<circle cx="617.1" cy="73.7" r="0.9" fill="#ffffff" opacity="0.17"/>
+<circle class="star59" cx="1001.5" cy="117.9" r="1.1" fill="#ffffff" opacity="0.05"/>
+<circle class="star60" cx="1058.3" cy="218.7" r="0.6" fill="#ffffff" opacity="0.05"/>
+<circle class="star61" cx="84.9" cy="222.3" r="0.8" fill="#ffffff" opacity="0.05"/>
+<circle class="star62" cx="607.1" cy="291.3" r="1.1" fill="#ffffff" opacity="0.05"/>
+<circle cx="535.0" cy="79.0" r="0.8" fill="#ffffff" opacity="0.54"/>
+<circle class="star64" cx="371.5" cy="107.0" r="0.5" fill="#ffffff" opacity="0.05"/>
+<circle class="star65" cx="297.8" cy="232.9" r="0.5" fill="#ffffff" opacity="0.05"/>
+<circle cx="27.0" cy="91.3" r="0.6" fill="#ffffff" opacity="0.16"/>
+<circle class="star67" cx="1071.4" cy="235.2" r="1.1" fill="#ffffff" opacity="0.05"/>
+<circle cx="869.0" cy="193.0" r="0.5" fill="#ffffff" opacity="0.47"/>
+<circle cx="841.3" cy="151.7" r="1.1" fill="#ffffff" opacity="0.44"/>
+<circle cx="823.8" cy="239.4" r="1.3" fill="#ffffff" opacity="0.41"/>
+<circle cx="159.7" cy="108.2" r="0.5" fill="#ffffff" opacity="0.28"/>
+<circle cx="637.7" cy="73.4" r="0.8" fill="#ffffff" opacity="0.12"/>
+<circle cx="642.2" cy="197.8" r="0.5" fill="#ffffff" opacity="0.44"/>
+<circle cx="281.7" cy="226.9" r="0.6" fill="#ffffff" opacity="0.44"/>
+<circle cx="574.8" cy="205.1" r="1.6" fill="#ffffff" opacity="0.14"/>
+<circle cx="398.1" cy="195.5" r="1.3" fill="#ffffff" opacity="0.25"/>
+<circle cx="322.5" cy="201.6" r="1.3" fill="#ffffff" opacity="0.21"/>
+<circle cx="559.1" cy="230.2" r="1.1" fill="#ffffff" opacity="0.21"/>
+<circle cx="550.8" cy="246.0" r="0.9" fill="#ffffff" opacity="0.55"/>
+<circle cx="89.5" cy="27.1" r="1.3" fill="#ffffff" opacity="0.35"/>
+<circle cx="610.5" cy="266.1" r="1.3" fill="#ffffff" opacity="0.28"/>
+<circle class="star82" cx="190.9" cy="285.0" r="1.3" fill="#ffffff" opacity="0.05"/>
+<circle class="star83" cx="379.3" cy="252.1" r="0.5" fill="#ffffff" opacity="0.05"/>
+<circle cx="234.9" cy="3.5" r="1.3" fill="#ffffff" opacity="0.24"/>
+<circle cx="707.0" cy="108.2" r="0.9" fill="#ffffff" opacity="0.44"/>
+<circle class="star86" cx="794.4" cy="190.5" r="0.6" fill="#ffffff" opacity="0.05"/>
+<circle cx="448.0" cy="286.8" r="0.5" fill="#ffffff" opacity="0.47"/>
+<circle cx="659.1" cy="215.9" r="0.5" fill="#ffffff" opacity="0.52"/>
+<circle cx="1043.4" cy="145.7" r="1.1" fill="#ffffff" opacity="0.17"/>
+<circle class="star90" cx="886.8" cy="292.9" r="0.8" fill="#ffffff" opacity="0.05"/>
+<circle cx="143.7" cy="193.0" r="0.5" fill="#ffffff" opacity="0.21"/>
+<circle cx="1087.5" cy="298.9" r="0.9" fill="#ffffff" opacity="0.30"/>
+<circle cx="667.0" cy="95.8" r="0.8" fill="#ffffff" opacity="0.23"/>
+<circle class="star94" cx="495.3" cy="124.2" r="1.1" fill="#ffffff" opacity="0.05"/>
+<circle cx="689.1" cy="108.0" r="1.3" fill="#ffffff" opacity="0.34"/>
+<circle cx="325.2" cy="74.5" r="0.9" fill="#ffffff" opacity="0.40"/>
+<circle cx="1161.6" cy="38.2" r="0.9" fill="#ffffff" opacity="0.43"/>
+<circle cx="0.2" cy="117.5" r="1.6" fill="#ffffff" opacity="0.35"/>
+<circle cx="268.6" cy="45.6" r="1.3" fill="#ffffff" opacity="0.17"/>
+<circle cx="1073.9" cy="25.5" r="1.6" fill="#ffffff" opacity="0.14"/>
+<circle cx="774.6" cy="91.1" r="0.6" fill="#ffffff" opacity="0.39"/>
+<circle class="star102" cx="119.3" cy="90.1" r="1.1" fill="#ffffff" opacity="0.05"/>
+<circle cx="645.0" cy="298.9" r="0.8" fill="#ffffff" opacity="0.53"/>
+<circle class="star104" cx="281.7" cy="74.1" r="0.9" fill="#ffffff" opacity="0.12"/>
+<circle cx="809.4" cy="126.0" r="0.8" fill="#ffffff" opacity="0.22"/>
+<circle class="star106" cx="835.0" cy="215.5" r="0.8" fill="#ffffff" opacity="0.11"/>
+<circle cx="605.9" cy="61.6" r="0.6" fill="#ffffff" opacity="0.25"/>
+<circle class="star108" cx="912.6" cy="88.5" r="1.1" fill="#ffffff" opacity="0.05"/>
+<circle class="star109" cx="798.4" cy="284.6" r="0.6" fill="#ffffff" opacity="0.22"/>
+<circle cx="498.5" cy="213.0" r="0.6" fill="#ffffff" opacity="0.29"/>
+<circle cx="1197.0" cy="279.5" r="0.8" fill="#ffffff" opacity="0.20"/>
+<circle class="star112" cx="374.2" cy="217.6" r="1.6" fill="#ffffff" opacity="0.05"/>
+<circle cx="335.8" cy="105.4" r="0.5" fill="#ffffff" opacity="0.36"/>
+<circle cx="370.4" cy="241.2" r="0.5" fill="#ffffff" opacity="0.14"/>
+<circle cx="231.6" cy="109.3" r="0.9" fill="#ffffff" opacity="0.13"/>
+<circle class="star116" cx="48.8" cy="10.5" r="0.5" fill="#ffffff" opacity="0.17"/>
+<circle cx="726.7" cy="108.9" r="0.8" fill="#ffffff" opacity="0.53"/>
+<circle cx="379.8" cy="82.7" r="0.5" fill="#ffffff" opacity="0.43"/>
+<circle cx="78.4" cy="247.8" r="0.5" fill="#ffffff" opacity="0.32"/>
+<circle cx="301.3" cy="129.0" r="0.9" fill="#ffffff" opacity="0.18"/>
+<circle class="star121" cx="364.0" cy="207.6" r="0.6" fill="#ffffff" opacity="0.08"/>
+<circle class="star122" cx="938.7" cy="23.7" r="0.6" fill="#ffffff" opacity="0.05"/>
+<circle cx="578.0" cy="163.4" r="0.6" fill="#ffffff" opacity="0.54"/>
+<circle cx="100.9" cy="28.9" r="0.9" fill="#ffffff" opacity="0.55"/>
+<circle cx="553.1" cy="267.4" r="0.6" fill="#ffffff" opacity="0.44"/>
+<circle class="star126" cx="1009.0" cy="88.1" r="1.1" fill="#ffffff" opacity="0.05"/>
+<circle cx="222.9" cy="70.7" r="0.8" fill="#ffffff" opacity="0.50"/>
+<circle class="star128" cx="1190.9" cy="152.2" r="0.6" fill="#ffffff" opacity="0.10"/>
+<circle cx="5.4" cy="264.8" r="0.6" fill="#ffffff" opacity="0.48"/>
+<circle cx="143.1" cy="56.9" r="1.6" fill="#ffffff" opacity="0.37"/>
+<circle class="star131" cx="538.9" cy="78.0" r="1.6" fill="#ffffff" opacity="0.11"/>
+<circle class="star132" cx="419.6" cy="11.2" r="0.8" fill="#ffffff" opacity="0.05"/>
+<circle cx="782.0" cy="61.0" r="0.5" fill="#ffffff" opacity="0.47"/>
+<circle class="star134" cx="93.5" cy="9.4" r="0.9" fill="#ffffff" opacity="0.06"/>
+<circle cx="660.2" cy="191.8" r="0.5" fill="#ffffff" opacity="0.40"/>
+<circle cx="801.4" cy="125.4" r="0.5" fill="#ffffff" opacity="0.25"/>
+<circle cx="1037.1" cy="299.0" r="0.8" fill="#ffffff" opacity="0.40"/>
+<circle cx="521.0" cy="47.0" r="0.5" fill="#ffffff" opacity="0.47"/>
+<circle cx="195.1" cy="4.5" r="1.1" fill="#ffffff" opacity="0.18"/>
+<circle class="star140" cx="1078.5" cy="216.4" r="2.1" fill="#ffffff" opacity="0.49" filter="drop-shadow(0 0 3px rgba(255,255,255,0.8))"/>
+<circle class="star141" cx="161.8" cy="147.3" r="2.1" fill="#ffffff" opacity="0.58" filter="drop-shadow(0 0 3px rgba(255,255,255,0.8))"/>
+<circle class="star142" cx="392.3" cy="180.1" r="2.7" fill="#ffffff" opacity="0.56" filter="drop-shadow(0 0 3px rgba(255,255,255,0.8))"/>
+<circle class="star143" cx="757.2" cy="249.8" r="2.7" fill="#ffffff" opacity="0.48" filter="drop-shadow(0 0 3px rgba(255,255,255,0.8))"/>
+<circle class="star144" cx="86.7" cy="272.8" r="2.1" fill="#ffffff" opacity="0.47" filter="drop-shadow(0 0 3px rgba(255,255,255,0.8))"/>
+<circle class="star145" cx="1045.0" cy="21.5" r="1.8" fill="#ffffff" opacity="0.50" filter="drop-shadow(0 0 3px rgba(255,255,255,0.8))"/>
+<circle class="star146" cx="990.9" cy="227.9" r="2.7" fill="#ffffff" opacity="0.49" filter="drop-shadow(0 0 3px rgba(255,255,255,0.8))"/>
+<circle class="star147" cx="604.0" cy="60.1" r="1.8" fill="#ffffff" opacity="0.52" filter="drop-shadow(0 0 3px rgba(255,255,255,0.8))"/>
+<circle class="star148" cx="913.6" cy="138.3" r="2.1" fill="#ffffff" opacity="0.51" filter="drop-shadow(0 0 3px rgba(255,255,255,0.8))"/>
+</g>
+
+<rect x="0" y="0" width="1200" height="300" fill="none" stroke="#1c1f2e" stroke-width="3"/>
+
+<g letter-spacing="4">
+<text x="145.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble0 nameGlow">R</text>
+<text x="207.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble1 nameGlow">O</text>
+<text x="269.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble2 nameGlow">U</text>
+<text x="331.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble3 nameGlow">N</text>
+<text x="393.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble4 nameGlow">A</text>
+<text x="455.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble5 nameGlow">K</text>
+<text x="559.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble7 nameGlow">P</text>
+<text x="621.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble8 nameGlow">R</text>
+<text x="683.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble9 nameGlow">A</text>
+<text x="745.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble10 nameGlow">J</text>
+<text x="807.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble11 nameGlow">A</text>
+<text x="869.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble12 nameGlow">P</text>
+<text x="931.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble13 nameGlow">A</text>
+<text x="993.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble14 nameGlow">T</text>
+<text x="1055.0" y="150" text-anchor="middle" font-size="58" fill="#ffffff" opacity="1" font-family="Georgia, 'Times New Roman', serif" class="scramble15 nameGlow">I</text>
+</g>
+
+<text x="600.0" y="205" text-anchor="middle" font-size="20" fill="#9aa0a6" opacity="0" class="subtitle">full-stack dev // rag &amp; llm engineer // cv</text>
+
+</svg>
