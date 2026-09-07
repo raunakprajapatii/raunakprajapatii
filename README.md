@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner2.gif" width="100%" alt="Rounak Prajapati" />
+<img src="assets/banner2.svg" width="100%" alt="Rounak Prajapati" />
 
 <img src="assets/trickster_icon_2.gif" width="90" alt="trickster sprite" />
 
