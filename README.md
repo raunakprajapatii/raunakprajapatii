@@ -16,7 +16,7 @@
 
 ### ⟡ about
 
-- 🎓 **B.Tech CSE** @ IIITDM Jabalpur (Batch 2024–2028) · CPI **8.5** (till Sem IV)
+- 🎓 **B.Tech CSE** @ IIITDM Jabalpur (Batch 2024–2028) · CPI **8.6** (till Sem IV)
 - 🔭 Building on full-stack + deep learning foundations, currently deep in **RAG and LLM engineering**
 - 🤝 Open to internships, open-source contributions, and collaborations
 - 🎾 Lawn tennis club member · also into music and drawing
